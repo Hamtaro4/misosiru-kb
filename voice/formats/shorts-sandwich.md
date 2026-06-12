@@ -1,5 +1,6 @@
 ---
 id: format-shorts-sandwich
+world: shared
 type: format
 tags: [Shorts, 60秒]
 updated: 2026-06-12
@@ -7,6 +8,7 @@ updated: 2026-06-12
 # Shorts サンドイッチ型（60秒以内）
 
 冒頭のフックを末尾で回収する、フック／本体／回収の三層構造。
+既定の語りのモード: メタ（依頼で指定があればそれに従う）。
 
 ## 構成（仮置き。編集部が調整する）
 
