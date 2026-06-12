@@ -12,9 +12,14 @@ updated: 2026-06-12
 ## 基本情報
 
 - 運営コミュニティ: MAC（Modern Architecture Community）
-- 体制: 【要記入：編集部の構成・役割分担】
-- 制作環境: 【要記入：エディション・バージョン・主要MOD構成・サーバー形態】
-- 発信チャネル: 【要記入：X／YouTube／ポータルサイト等の名称とURL】
+- 体制: 代表:Momo6569
+- 制作環境: クロスプレイ(Java・統合版対応)
+- 発信チャネル:	-X(https://x.com/Misosiru_City)
+        			-X海外向け
+        			-Youtube(https://youtube.com/@misosiru_city?si=FiZJo3G5wSbffVBe)
+        			-インスタ
+        			-TikTok
+        			-HP
 
 ## プロジェクトの方針
 
