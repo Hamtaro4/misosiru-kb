@@ -1,11 +1,11 @@
 ---
-id: district-【要記入：地区の英語表記】
+id: district-【minami-ku】
 world: lore
 type: district
 tags: []
 updated: 2026-06-29
 ---
-# 【要記入：地区名】（作中設定）
+# 【南区】（作中設定）
 
 制作の裏話・撮影メモ・開発経緯は project/production-notes/ の対応ファイルへ。
 
